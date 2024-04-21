@@ -1,3 +1,13 @@
+# Tecnologias
+
+- [Shadcn/Ui]()
+- [Zod](https://zod.dev/?id=installation)
+- [Prisma](https://www.prisma.io/docs/getting-started)
+- [Supabase]()
+- [Axios](https://axios-http.com/ptbr/docs/intro)
+- [Reacat-Hot-Toast](https://react-hot-toast.com/)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
