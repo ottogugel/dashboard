@@ -7,6 +7,7 @@
 - [Axios](https://axios-http.com/ptbr/docs/intro)
 - [Reacat-Hot-Toast](https://react-hot-toast.com/)
 
+The idea for this project came from the [video](https://youtu.be/5miHyP6lExg?si=ovYh9aPR0Sii76nL) created by [Code The Anio](https://www.youtube.com/@codewithantonio)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
